@@ -40,6 +40,8 @@ FashionFusion is an online shopping website where users can explore and purchase
 
 ![Login_Page](https://github.com/Saurabh9527/fashionFusion/assets/136837795/317e6c83-ecdf-4c62-91e4-92863d90f7d3)
 
+![SignUp_Page](https://github.com/Saurabh9527/fashionFusion/assets/136837795/bacf4e2e-aead-4c2f-b392-08a9ddc85cdf)
+
 ![Home_Page1](https://github.com/Saurabh9527/fashionFusion/assets/136837795/76b4750f-f5bd-4c7e-b429-26f3592348d0)
 
 ![Home_Page2](https://github.com/Saurabh9527/fashionFusion/assets/136837795/86e98f63-9953-47e6-9991-1ef8fa7f23ad)
