@@ -36,6 +36,10 @@ FashionFusion is an online shopping website where users can explore and purchase
 
 - **Memoization:** Utilized memoization techniques to prevent unnecessary API calls by caching the results of expensive function calls. This ensures that data is retrieved from the cache instead of making redundant API requests, thereby reducing network overhead and improving overall performance.
 
+## Project Demo Video
+
+https://github.com/Saurabh9527/FashionFusion-Marketplace/assets/136837795/534441d8-b6e9-4049-9372-621ee7fbd704
+
 ## Screenshots 📷
 
 
